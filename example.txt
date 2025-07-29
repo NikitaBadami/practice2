@@ -1,1 +1,2 @@
 Line from feature2
+Line from featurfrom feature-1
